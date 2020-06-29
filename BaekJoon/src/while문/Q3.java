@@ -4,7 +4,6 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.StringTokenizer;
 
 public class Q3 {
 	/* N이 주어졌을 때, N의 사이클의 길이를 구하는 프로그램을 작성하시오. */
